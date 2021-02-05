@@ -70,7 +70,7 @@ app.post("/Error",function(req, res){
 
 
 app.listen(process.env.PORT || 3000,function(req ,res){
-    console.log("Server for NewLetter is running on port 3000");
+    console.log("Server for NewsLetter is running on port 3000");
 
 });
  
